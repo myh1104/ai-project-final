@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 File for classifier
-author:
 """
 
 import DataPrep
