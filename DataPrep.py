@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 File for Data preprocessing
-author:
 
 """
 #import os
